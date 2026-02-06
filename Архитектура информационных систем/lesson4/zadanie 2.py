@@ -12,4 +12,3 @@ print (0.39*0.22)
 print ((5 ** 2) - (3 * 7))
 
 print ('"Khal Drogo\'s favorite word is "athjahakar""')
-
