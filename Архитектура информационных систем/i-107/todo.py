@@ -1,19 +1,18 @@
 """
 https://code-basics.com/ru
-все, кроме
-Создание (определение) функций
-Возврат значений
-Необязательные параметры функций
+все
 
 https://ru.pythontutor.ru/problem/old/1
 
 https://education.yandex.ru/handbook/python
-до 3.2 Не включая
+до 3.2 Не включая;
+отдельно 4.1
 
 https://stepik.org/catalog/131?free=true
 "Поколение Python": курс для начинающих 
-до 13 Функции Не включая
+до 15 Работа над мини-проектом
 
+https://leetcode.com/problem-list/wks0hhwh/
 Difficulty is Easy;
 Language is Python3:
 https://leetcode.com/problem-list/array/
